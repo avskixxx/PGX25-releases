@@ -5,5 +5,14 @@
     <link>https://github.com/avskixxx/PGX25-releases</link>
     <description>PGX25 beta updates</description>
     <language>en</language>
+    <item>
+      <title>PGX25 0.9 (72)</title>
+      <pubDate>Mon, 28 Sep 2026 13:28:59 -0400</pubDate>
+      <sparkle:version>72</sparkle:version>
+      <sparkle:shortVersionString>0.9</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>First beta.</li><li>Seshes: every version and stem of a song in one place, with Stem Mode.</li><li>Finished songs and albums.</li><li>Release: visualizer videos (9:16, 1:1, 16:9) with real spectrum bars and key colours.</li><li>Post planner with on-device AI captions and reminders.</li><li>Optional: visuals react to any audio playing on your Mac.</li><li>Updates install themselves from now on.</li></ul>]]></description>
+      <enclosure url="https://github.com/avskixxx/PGX25-releases/releases/download/v0.9-72/PGX25.zip" type="application/octet-stream" sparkle:edSignature="XaCe7r66nQ0ywRI41st3BcvOyl6XKhXgOegvgkYVeCxz6eo52E3JolTU0mcJm8vS6DQoakOvWbxK4se5wCwADA==" length="7417730" />
+    </item>
   </channel>
 </rss>
