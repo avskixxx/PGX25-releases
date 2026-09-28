@@ -6,6 +6,15 @@
     <description>PGX25 beta updates</description>
     <language>en</language>
     <item>
+      <title>PGX25 0.9 (73)</title>
+      <pubDate>Mon, 28 Sep 2026 13:42:06 -0400</pubDate>
+      <sparkle:version>73</sparkle:version>
+      <sparkle:shortVersionString>0.9</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Updates now ask before installing, so the app never restarts mid-session.</li></ul>]]></description>
+      <enclosure url="https://github.com/avskixxx/PGX25-releases/releases/download/v0.9-73/PGX25.zip" type="application/octet-stream" sparkle:edSignature="TsfXeBPysg4LUWWqwop+8O3FXj151FfvGWQ37H9d1+xKt37/CHGLhbqU4ijvNAgSc1phMrAmA861Th3t4aI5CA==" length="7417768" />
+    </item>
+    <item>
       <title>PGX25 0.9 (72)</title>
       <pubDate>Mon, 28 Sep 2026 13:28:59 -0400</pubDate>
       <sparkle:version>72</sparkle:version>
