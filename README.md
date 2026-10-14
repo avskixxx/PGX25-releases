@@ -7,7 +7,7 @@ songs and albums, visualizer videos and post planning for your socials.
 
 Testers get the download link directly. There's nothing to download from this page right now.
 
-pgx8 needs a Mac with Apple silicon and macOS 14 or later. Everything stays on your Mac;
+pgx8 needs macOS 14 or later, on an Apple silicon or Intel Mac. Everything stays on your Mac;
 nothing is uploaded.
 
 ## What this page holds
